@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Find All</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="ItemItineraire">Afficher un itinéraire</string>
+    <string name="ItemRechLieux">Rechercher des lieux</string>
+    <string name="ItemRechLieuxProch">Rechercher les lieux à proximité</string>
+    <string name="radioMaPosition">Depuis ma position</string>
+     <string name="radioSaisirManuellement">Saisir manuellement</string>
+    <string name="radioCarte">Reférencer depuis la carte</string>
+    <string name="PointDepart">Choisir le point de départ</string>
+    <string name="PointArrive">Choisir le point d\'arrivée</string>
+    <string name="AccueilMenu">Options</string>
+    <string name="LePays">Pays</string>
+    <string name="LaVille">Ville</string>
+    <string name="Depart">Point de depart</string>
+    <string name="Arrive">Point d\'arrivé</string>
+    <string name="TextBoxPays">Entrer le Pays de votre choix</string>
+    <string name="TextBoxVille">Entrer la ville de votre choix</string>
+    <string name="FiltrageDesLieux">Filtrez d\'après mes préférences</string>
+    <string name="boutonSuivant">Suivant</string>
+    <string name="ClickboutonItineraire">clickItineraire</string>
+    <string name="TitreFormulaireItineraire">Déterminer un itinéraire</string>
+    <string name="TypeLieu">Type de lieux recherché</string>
+    <string name="boutonPrecedent">Précédent</string>
+    <string name="MesOPTION">Options</string>
+    
+    
+    <string name="action_settings">Settings</string>
+    <string-array name="listeType">
+        <item >bar</item>
+        <item >Ecole</item>
+        <item >Ambassade</item>
+        <item >Stade</item>
+        <item >Police</item>
+        <item >Pharmacie</item>
+        <item >Banque</item>
+        <item >Restaurant</item>
+        <item >Marché</item>
+        <item >Hopital</item>
+    </string-array>
+    <string name="Pays">Pays</string>
+    <string name="Ville">Ville</string>
+    <string name="Region">Region</string>
+    <string name="EtendreListe">Etendre</string>
+    <string name="LARegion">Région</string>
+    <string name="TextePreference">Mes Préférences</string>
+    <string name="PreferencePays">Présélectionnez un pays</string>
+    <string name="PreferenceVille">Présélectionnez une ville</string>
+    <string name="PreferenceRegion">Présélectionnez une région</string>
+    <string name="ModifierPreference">Modifier</string>
+    <string name="ParamNavigation">Paramètres de navigation</string>
+    <string name="ActivBoussole">Activez la boussole</string>
+    <string name="RayonAlerte">Définissez le rayon d\'alerte de proximité (m)</string>
+
+</resources>
